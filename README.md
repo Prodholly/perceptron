@@ -1,9 +1,6 @@
 # Implementation of the Perceptron Algorithm
 
 **Author:** Emmanuel Adeloju  
-**Institution:** Arizona State University  
-**Course:** EEE549  
-**Date:** September 17, 2025
 
 ---
 
