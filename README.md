@@ -277,8 +277,3 @@ For linearly separable data, the choice of stopping criterion had little effect.
 * NumPy  
 * (Optional) Matplotlib for visualization  
 * Jupyter Notebook or Google Colab
-
----
-
-## License
-This project is part of academic coursework for **EEE549** at **Arizona State University**.
